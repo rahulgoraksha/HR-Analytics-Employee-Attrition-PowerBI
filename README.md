@@ -100,11 +100,13 @@ The dataset includes:
 ## 📈 Outcome
 This project demonstrates how HR analytics can move beyond reporting to deliver **actionable insights** that improve retention, productivity, and employee trust.
 
+![HRMS Dashboard](final_output/HR-ANALYTICS-DASHBOARD_img1.jpg)
+![HRMS Dashboard](final_output/HR-ANALYTICS-DASHBOARD_img2.jpg)
 ---
 
 ## 👤 Author
 **Rahul Goraksha**  
-Aspiring Data Analyst | Power BI | HR Analytics
+Aspiring Data Analyst | Power BI 
 
 ---
 
